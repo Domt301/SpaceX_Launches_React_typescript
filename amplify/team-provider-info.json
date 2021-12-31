@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-reactspacexapp-dev-193920-authRole",
+            "UnauthRoleArn": "arn:aws:iam::150387412202:role/amplify-reactspacexapp-dev-193920-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::150387412202:role/amplify-reactspacexapp-dev-193920-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-reactspacexapp-dev-193920-deployment",
+            "UnauthRoleName": "amplify-reactspacexapp-dev-193920-unauthRole",
+            "StackName": "amplify-reactspacexapp-dev-193920",
+            "StackId": "arn:aws:cloudformation:us-east-1:150387412202:stack/amplify-reactspacexapp-dev-193920/193efdd0-69d2-11ec-a817-1293b79fe18b",
+            "AmplifyAppId": "d3vhj2rnu2flv6"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3vhj2rnu2flv6",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}
