@@ -21,7 +21,7 @@ const LaunchProfile: React.FC<Props> = ({ data }) => {
           <span className={`${className}__success`}>Success</span>
         ) : (
           <span className={`${className}__failed`}>Failed</span>
-        )}
+        )} {data.launch.launch_year}
       </div>
       <h1 className={`${className}__title`}>
         {data.launch.mission_name}
